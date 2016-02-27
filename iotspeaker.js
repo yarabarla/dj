@@ -24,7 +24,7 @@ app.use(function *(){
 });
 
 
-playSongs(local) {
+function playSongs(local) {
   if (local) {
     //local playback
   } else {
