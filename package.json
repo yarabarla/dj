@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yarabarla/dj/issues"
   },
-  "homepage": "https://github.com/yarabarla/dj#readme"
+  "homepage": "https://github.com/yarabarla/dj#readme",
+  "dependencies": {
+    "node-fetch": "^1.3.3"
+  }
 }
