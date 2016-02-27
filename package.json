@@ -1,0 +1,29 @@
+{
+  "name": "dj",
+  "version": "1.0.0",
+  "description": "dj stuff fam",
+  "main": "iotspeaker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarabarla/dj.git"
+  },
+  "keywords": [
+    "dj",
+    "stuff",
+    "fam",
+    "y'know"
+  ],
+  "author": "DJ KHALED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarabarla/dj/issues"
+  },
+  "homepage": "https://github.com/yarabarla/dj#readme",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "node-fetch": "^1.3.3"
+  }
+}

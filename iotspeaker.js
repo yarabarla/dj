@@ -1,3 +1,4 @@
+// @flow
 const fetch = require('node-fetch');
 const koa = require('koa');
 const app = module.exports = koa();
@@ -21,6 +22,7 @@ app.use(function *(){
   console.log();
   this.message = message;
 });
+
 
 playSongs(local) {
   if (local) {
